@@ -1,4 +1,4 @@
-# 📊 Python Projects Using Matplotlib
+# 📊 Basic Python Projects Using Matplotlib
 
 A beginner-friendly collection of Python scripts to help you get comfortable with Matplotlib — from basic charts to real-world visualizations, all built in a hands-on way that can serve as a foundation for more advanced projects.
 
