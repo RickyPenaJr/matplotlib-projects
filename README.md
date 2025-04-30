@@ -1,6 +1,8 @@
 # 📊 Python Projects Using Matplotlib
 
-A collection of beginner-friendly Python scripts that demonstrate how to create different types of visualizations using Matplotlib. These mini projects are great for learning how to plot data, style charts, and explore real-world data trends.
+A beginner set of Python scripts built to practice getting comfortable with Matplotlib — covering everything from basic charts to real-world data visuals in a hands-on way that could later be used in a more complex project.
+
+
 
 ---
 
